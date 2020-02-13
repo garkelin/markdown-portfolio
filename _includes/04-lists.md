@@ -1,2 +1,2 @@
-+ nada 1
-+ nada 2
+- nada 1
+- nada 2
